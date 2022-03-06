@@ -31,7 +31,7 @@
 
 - 🤝 I’m looking for help with **Spring Documentation**
 
-- 👨‍💻 All of my projects are available at [github.com/Rytnix](github.com/Rytnix)
+- 👨‍💻 All of my projects are available at  [Github - Utkarsh Yadav](https://github.com/Rytnix)**
 
 - 💬 Ask me about **Java and Spring or any Tech related stuff**
 
