@@ -13,8 +13,8 @@
 -->
 
 <a href="https://github.com/Rytnix">
-<img align="center" alt="Utkarsh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Utkarsh Yadav&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="Utkarsh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rytnix&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 <a href="https://github.com/Rytnix">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rytnix&layout=compact&theme=radical" />
 </a>
