@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👯 I’m looking to collaborate on **Book-management Repository**
+- 👯 I’m looking to collaborate on **Library-X Repository**
 
 - 🤝 I’m looking for help with **Spring Documentation**
 
