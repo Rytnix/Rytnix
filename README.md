@@ -46,7 +46,9 @@
 
 <p align="left"> <a href="https://twitter.com/_utkarsh_y" target="blank"><img src="https://img.shields.io/twitter/follow/_utkarsh_y?logo=twitter&style=for-the-badge" alt="_utkarsh_y" /></a> </p>
 
-![alt text](https://drive.google.com/file/d/1RmYF-ut0Yi78wMbcDzIxcVnJWxBtZ5TX/view?usp=sharing)
+
+
+![channel art (2)](https://user-images.githubusercontent.com/61384940/168912323-a32dc3b1-0e9f-49a2-a290-bbfed2b0fc12.png)
 
 
 
