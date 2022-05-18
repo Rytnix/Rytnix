@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **Java and Spring or any Tech related stuff**
 
-- ⚡ Fun fact **I am a three tier college student and working on Spring Framework!!!**
+- ⚡ Fun fact **Nothing to share!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
