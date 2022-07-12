@@ -17,7 +17,7 @@
 </a>
 -->
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Cloud Developer</h3>
 
 
 - 🔭 I’m currently working on **Spring Data JPA Projects.**
