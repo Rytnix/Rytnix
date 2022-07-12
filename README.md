@@ -48,7 +48,7 @@
 
 
 
-![channel art (2)](https://user-images.githubusercontent.com/61384940/168912323-a32dc3b1-0e9f-49a2-a290-bbfed2b0fc12.png)
+<!-- ![channel art (2)](https://user-images.githubusercontent.com/61384940/168912323-a32dc3b1-0e9f-49a2-a290-bbfed2b0fc12.png) -->
 
 
 
