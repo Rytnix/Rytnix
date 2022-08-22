@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a tier 3 College Student working on Spring Framework lol!!!
 
-<div style="text-align: center">
+<div style="margin-left: 30px;">
 <a href="https://github.com/Rytnix">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rytnix&layout=compact&theme=radical" />
 </a>
