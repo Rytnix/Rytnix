@@ -19,7 +19,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="center" src="https://drive.google.com/file/d/1_5lk1FKtdHJuyWdGa43yrL0doIFK32Hf/view?usp=sharing"/>
+<a href="https://linkedin.com/in/utkarsh1510"><img aling="center" src="https://i.ibb.co/7bRVJ5d/Pink-Yellow-Colorful-Designer-Linked-In-Banner.png" alt="Pink-Yellow-Colorful-Designer-Linked-In-Banner" border="0"></a>
 
 - 🔭 I’m currently working on **Spring Data JPA Projects.**
 
