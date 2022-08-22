@@ -20,7 +20,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
 <h3 align="center">Software Engineer</h3>
 
-<a href="https://linkedin.com/in/utkarsh1510"><img aling="center" src="https://i.ibb.co/7bRVJ5d/Pink-Yellow-Colorful-Designer-Linked-In-Banner.png" alt="Pink-Yellow-Colorful-Designer-Linked-In-Banner" border="0"></a>
+<a href="https://linkedin.com/in/utkarsh1510"><img align="center" src="https://i.ibb.co/7bRVJ5d/Pink-Yellow-Colorful-Designer-Linked-In-Banner.png" alt="Pink-Yellow-Colorful-Designer-Linked-In-Banner" border="0"></a>
 
 - 🔭 I’m currently working on **Spring Data JPA Projects.**
 
