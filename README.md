@@ -19,8 +19,9 @@
 -->
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
 <h3 align="center">Software Engineer</h3>
-
+<div style="text-align: center">
 <a href="https://linkedin.com/in/utkarsh1510" align="center" ><img align="center" src="https://i.ibb.co/7bRVJ5d/Pink-Yellow-Colorful-Designer-Linked-In-Banner.png" alt="Pink-Yellow-Colorful-Designer-Linked-In-Banner" border="0"></a>
+  </div>
 
 - 🔭 I’m currently working on **Spring Data JPA Projects.**
 
